@@ -1,0 +1,38 @@
+body {
+    background-color: #E6E6FA; /* Lila */
+    color: #4B0082; /* Texto morado */
+}
+
+textarea {
+    resize: none;
+    border: 2px solid #9370DB; /* Borde morado */
+    background-color: #F8F8FF; /* Fondo suave */
+    color: #4B0082; /* Texto morado */
+}
+
+#resultMessage {
+    font-size: 1.2rem;
+    color: #4B0082; /* Texto morado */
+}
+
+button {
+    width: 150px;
+    background-color: #9370DB; /* Fondo morado */
+    color: white; /* Texto blanco */
+    border: none;
+}
+
+button:hover {
+    background-color: #4B0082; /* Fondo más oscuro al pasar el cursor */
+}
+
+select {
+    background-color: #F8F8FF; /* Fondo suave */
+    border: 2px solid #9370DB; /* Borde morado */
+    color: #4B0082; /* Texto morado */
+}
+
+input {
+    border: 2px solid #9370DB; /* Borde morado */
+    color: #4B0082; /* Texto morado */
+}
